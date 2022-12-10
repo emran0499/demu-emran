@@ -1,6 +1,6 @@
 #🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 #dac me if you can
-#tor abbu emran😐😐😐😐😐
+#tor abbu emran😐😐😐😐
 
 import os
 import emran
